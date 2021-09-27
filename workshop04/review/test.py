@@ -1,0 +1,10 @@
+data = "No way!"
+print("1. ", len(data))
+print("2. ", data[1])
+print("3. ", data[–1])
+print("5. ", data.replace("No", "Yes"))
+print("6. ", data.find ("way!"))
+print("7. A given distance to the left or to the right in the sequence of characters")
+print("8. 7")
+print("9. 1000")
+print("10. read")
