@@ -6,5 +6,7 @@ Problem:
     List two examples of input devices and two examples of output devices.
 Solution:
     Input: keyboard, touchscreen
+
+    
     Output: monitor, speakers
 """
